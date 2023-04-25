@@ -1,4 +1,4 @@
-﻿**Création d’une Calculatrice Multifonctions en Python**
+#Création d’une Calculatrice Multifonctions en Python
 
 
 
